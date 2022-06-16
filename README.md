@@ -17,3 +17,5 @@
 * BEM Methodology 
 * Git 
 * Figma 
+
+Ссылка на проект: https://leonidluzhbin.github.io/russian-travel/
